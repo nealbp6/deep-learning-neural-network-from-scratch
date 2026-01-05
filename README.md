@@ -10,6 +10,8 @@ This repository contains a from scratch created feedforward neural network (FFNN
 
 **Quick start**
 
+download all python files
+
 Install dependencies:
 
 ```bash
@@ -53,3 +55,4 @@ This project is licensed under the MIT License.
 > © **2025 Neal**  
 
 > *Feel free to modify, improve, and share — just include credit to the original author.*
+
